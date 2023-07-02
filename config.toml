@@ -1,0 +1,8 @@
+baseURL = 'https://gopherball.net/'
+languageCode = 'en-us'
+title = 'gopherball'
+theme = 'gokarna'
+
+[params]
+avatarURL = "/images/logo.png"
+footer = "gopherball"
